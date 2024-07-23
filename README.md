@@ -38,10 +38,4 @@ Share and read reviews about other users to ensure a trustworthy and enjoyable s
   </tr>
 </table>
 
-## Getting Started
 
-To get started with BookSwap, follow these steps:
-
-1. Clone the repository:
-   ```sh
-   git clone https://github.com/terabitit/BookSwap.git
